@@ -5,9 +5,9 @@ import Tweet from './Tweet';
 function App() {
     
     const [users, setUsers] = useState([
-        {name: "okunlade", message: "Hello pretty queen"},
-        {name: "omojola", message: "my first react project"},
-        {name: "fola", message: "i am awesome"},
+        {name: "Okunlade", message: "Hello pretty queen"},
+        {name: "Omojola", message: "My first react project"},
+        {name: "Fola", message: "I am awesome"},
     ]);
 
     return (
